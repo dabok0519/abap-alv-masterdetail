@@ -169,4 +169,4 @@ ENDLOOP.
 
 설계 의도와 각 구문에 대한 상세 설명은 별도 학습 노트에 정리되어 있습니다.
 
-> 🔗 (여기에 Notion 링크 삽입)
+> 🔗 https://www.notion.so/TEAM_PROJECT-3566258f3fce80c58954e6d06f56a7bc?source=copy_link
